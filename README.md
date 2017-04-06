@@ -8,4 +8,4 @@ Embedded with database and visual display.
 
 The database allows inputs including student's height, weight, hai color and GPA. 
 
-The visual dispaly feaure allows the application to displa a cube similar to a real human being according to the data inputs
+The visual dispaly feaure allows the application to displa a cube with different color, size and shape that similar to a real human being according to the data inputs
