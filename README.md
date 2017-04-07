@@ -1,11 +1,11 @@
 # Studnet Info Cube
 
-Created a web application that allows user to construct cubes with diferent sizes according to students' input. 
+This web application allows user to construct cubes with different sizes according to students' input. 
 
 Current Features:
 
-Embedded with database and visual display.
+	1. Embedded with database and visual display.
 
-The database allows inputs including student's height, weight, hai color and GPA. 
+The web app’s database allows inputs including student's height, weight, hair color and GPA. 
 
-The visual dispaly feaure allows the application to displa a cube with different color, size and shape that similar to a real human being according to the data inputs
+The visual display feature allows the application to display a cube with different colour, size and shape that are similar to a real human being according to the data inputs
